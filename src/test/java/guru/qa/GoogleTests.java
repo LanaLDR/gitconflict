@@ -8,5 +8,6 @@ public class GoogleTests {
 
     @Test
     void openGoogleTest() {
+        //сделать в понедельник
     }
 }
